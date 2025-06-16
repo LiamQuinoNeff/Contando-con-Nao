@@ -32,7 +32,7 @@ El sistema se compone de dos scripts principales:
 - Robot NAO con NAOqi 2.x
 
 ### Software
-- Python 2.7 o 3.3+  
+- Python 2.7 y 3.3+  
 - Bibliotecas necesarias:
   - `opencv-python`
   - `numpy`
