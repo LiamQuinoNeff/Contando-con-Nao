@@ -48,7 +48,7 @@ El sistema se compone de dos scripts principales:
    ```
    
 2. **Configurar entorno Python**
-   Asegúrate de tener las librerías necesarias instaladas:
+   - Asegúrate de tener las librerías necesarias instaladas:
    ```
    pip install opencv-python numpy Pillow naoqi
    ```
