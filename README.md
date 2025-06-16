@@ -49,13 +49,15 @@ El sistema se compone de dos scripts principales:
    
 2. **Configurar entorno Python**
    Asegúrate de tener las librerías necesarias instaladas:
-   ```pip install opencv-python numpy Pillow naoqi```
+   ```
+   pip install opencv-python numpy Pillow naoqi
+   ```
    
-3. **Configurar conexión con el robot NAO**
+4. **Configurar conexión con el robot NAO**
    - Presiona el botón central del NAO para obtener su IP.
    - Edita el archivo `nao_main.py` y reemplaza las variables `ROBOT_IP` y `ROBOT_PORT` con los valores correspondientes.
      
-4. **Verificar permisos y entorno**
+5. **Verificar permisos y entorno**
   - Si usas un entorno virtual, actívalo antes de ejecutar el script.
   - Asegúrate de que los paquetes estén accesibles desde el intérprete Python que usa NAO.
 
